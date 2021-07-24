@@ -16,7 +16,7 @@
     <body>
         <header>
             <div class="logo">
-                <img src="img/devjane.png" alt="">
+                <img src="img/dev-herman.png" alt="">
             </div>
             <button class="nav-toggle" aria-label="toggle navigation">
                 <span class="hamburger"></span>
@@ -34,10 +34,10 @@
         <!-- Introduction -->
         <section class="intro" id="home">
             <h1 class="section__title section__title--intro">
-                Hi, I am <strong>Jane Smith</strong>
+                Hello, I am <strong>POKA hermann</strong>
             </h1>
             <p class="section__subtitle section__subtitle--intro">front-end dev</p>
-            <img src="img/dev-jane-01.jpg" alt="a picture of Jane Smith smiling" class="intro__img">
+            <img src="img/dev-hermann.jpg" alt="a picture of Jane Smith smiling" class="intro__img">
         </section>
         
         
@@ -46,19 +46,19 @@
             <h2 class="section__title section__title--services">What I do</h2>
             <div class="services">
                 <div class="service">
-                    <h3>Design + Development</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <h3>Development</h3>
+                    <p>If you already have some mockups of your site, i can realise the front-end part of your website and propose you some ameliorations.</p>
                 </div> <!-- / service -->
                 
                 <div class="service">
                     <h3>E-Commerce</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>If you want to sell products worldwide or in a particular country, i can develop your e-commerce platform and customise it depending of your whishes.</p>
                 </div> <!-- / service -->
                 
-                <div class="service">
+                <!--<div class="service">
                     <h3>WordPress</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                </div> <!-- / service -->
+                </div>  / service -->
             </div> <!-- / services -->
             
             <a href="#work" class="btn">My Work</a>
@@ -68,14 +68,14 @@
         <!-- About me -->
         <section class="about-me" id="about">
            <h2 class="section__title section__title--about">Who I am</h2>
-           <p class="section__subtitle section__subtitle--about">Designer & developer based out of NYC</p>
+           <p class="section__subtitle section__subtitle--about">Designer & developer based out of Douala, Cameroon</p>
            
            <div class="about-me__body">
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+               <p>I started programming since 2007. I am hard-working and i love to work in a team.</p>
+               <p>At the begining, i learnt languages as HTML, CSS, JAVASCRIPT but now, i tried other backend languages as C#, PHP.</p>
            </div>
            
-           <img src="img/dev-jane-02.jpg" alt="Jane leaning against a bus" class="about-me__img">
+           <img src="img/dev-hermann-02.jpg" alt="Jane leaning against a bus" class="about-me__img">
         </section>
         
         <!-- My Work -->
@@ -140,9 +140,9 @@
         <!-- Footer -->
         <footer class="footer">
             <!-- replace with your own email address -->
-            <a href="mailto:hello@jane.dev" class="footer__link">hello@jane.dev</a>
+            <a href="mailto:pokatchoneng@gmail.com" class="footer__link">pokatchoneng@gmail.com</a>
             <ul class="social-list">
-                <li class="social-list__item">
+                <!-- <li class="social-list__item">
                     <a class="social-list__link" href="https://codepen.io">
                         <i class="fab fa-codepen"></i>
                     </a>
@@ -151,14 +151,14 @@
                     <a class="social-list__link" href="http://dribbble.com">
                         <i class="fab fa-dribbble"></i>
                     </a>
-                </li>
+                </li> -->
                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://twitter.com">
+                    <a class="social-list__link" href="https://twitter.com/pokatchoneng">
                         <i class="fab fa-twitter"></i>
                     </a>
                 </li>
                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://github.com">
+                    <a class="social-list__link" href="https://github.com/vanamos12">
                         <i class="fab fa-github"></i>
                     </a>
                 </li>
